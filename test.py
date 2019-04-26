@@ -1,4 +1,5 @@
-print "Git merge conflicts tutorial - changed by dev2"
+print "Git merge conflicts tutorial - added by dev1"
 
+print "new line"
 
-print "New line added by dev2"
+print "New line added by dev1"
